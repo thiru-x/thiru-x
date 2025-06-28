@@ -26,7 +26,14 @@
 > Explore some of my verified credentials here 👇
 
 📂 [**Certificates**](#)  
-*More coming soon...*
+## 🏅 Verified Certificates
+
+- [![Java](https://img.shields.io/badge/Java-Programming-blue?logo=java)](https://www.linkedin.com/posts/thirugnanam-n-07616a2a3_java-programming-learning-activity-7268635188211920896-PlRI)
+- [![Problem Solving](https://img.shields.io/badge/ProblemSolving-HackerRank-green?logo=hackerrank)](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7268635188211920896/)
+- [![Python](https://img.shields.io/badge/Python-Basics-yellow?logo=python)](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7339147025357131777/)
+- [![Full Stack](https://img.shields.io/badge/FullStack-Development-orange?logo=html5)](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7342129395072909312/)
+- [![Cybersecurity](https://img.shields.io/badge/CyberSecurity-Workshop-critical?logo=security)](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7303340980282212352/)
+
 
 ---
 
@@ -45,6 +52,6 @@
 ```bash
 Languages:      Java | Python | JavaScript | C | Go | C#
 Frontend:       HTML5 | CSS3 | React
-Backend:        Node.js | Spring Boot | Express
+Backend:        Node.js | Spring Boot 
 Cloud:          AWS | Firebase (basic)
-Tools/DB:       Git | GitHub | MongoDB | MySQL | Postman
+Tools/DB:       Git | GitHub | MongoDB | MySQL 
