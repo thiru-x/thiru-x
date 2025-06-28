@@ -32,7 +32,7 @@
 - [![Problem Solving](https://img.shields.io/badge/ProblemSolving-HackerRank-green?logo=hackerrank)](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7268635188211920896/)
 - [![Python](https://img.shields.io/badge/Python-Basics-yellow?logo=python)](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7339147025357131777/)
 - [![Full Stack](https://img.shields.io/badge/FullStack-Development-orange?logo=html5)](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7342129395072909312/)
-- [![Cybersecurity](https://img.shields.io/badge/CyberSecurity-Workshop-critical?logo=security)](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7303340980282212352/)
+- [![Java Problem Solving](https://img.shields.io/badge/CyberSecurity-Workshop-critical?logo=security)](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7303340980282212352/)
 
 
 ---
